@@ -61,7 +61,3 @@ Contributions are welcome! If you have suggestions to improve this repository or
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize the content according to your preferences and add any additional sections you find relevant. Good luck with your TypeScript coding challenge!
